@@ -6,6 +6,8 @@ Basic course on data analysis (in Portuguese). Curso básico sobre análise de d
 
 [Notas](https://docs.google.com/spreadsheets/d/e/2PACX-1vTXNsjonGvcTN4YHxHYlexHE5KBbcccfA0hEJjDc_9QvnzkHgAqoW7Gn29-X7T88S4tLDaRoIE8Lxk9/pubhtml)
 
+### [Apresentação](https://nbviewer.jupyter.org/format/slides/github/rnwatanabe/BasesComputacionais2019/blob/master/aula1/Apresenta%C3%A7%C3%A3o.ipynb#/)
+
 ### Tarefa 1 (para aula 1).
 
 -Abrir uma conta no Github.
