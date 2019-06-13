@@ -18,7 +18,7 @@ Basic course on data analysis (in Portuguese). Curso básico sobre análise de d
 
 - Compartilhar o repositório com o usuário rnwatanabe. Este repositório será utilizado para entregar as demais tarefas.
 
-#### Leitura (para 14/07/2019):
+#### Leitura (para 28/07/2019):
 
 Ler as seções 1.1, 1.2 e 1.3 do livro [Marietto, MGB et al.; **Bases computacionais da Ciência** (2013)](http://prograd.ufabc.edu.br/images/pdf/bases_computacionais_livro.pdf).
 
