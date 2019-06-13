@@ -1,6 +1,6 @@
 # BasesComputacionais2019
 
-## Conforme orientação da reitoria, as atividades acadêmicas desta sexta-feira (14/06/2019) estão canceladas. Com isso a aula do dia 14/06/2019 está cancelada.
+## Conforme orientação da reitoria, as atividades acadêmicas desta sexta-feira (14/06/2019) estão canceladas. Com isso não haverá aula no dia 14/06/2019.
 
 Renato Naville Watanabe
 
