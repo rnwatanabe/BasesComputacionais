@@ -22,4 +22,6 @@ Basic course on data analysis (in Portuguese). Curso básico sobre análise de d
 
 Ler as seções 1.1, 1.2 e 1.3 do livro [Marietto, MGB et al.; **Bases computacionais da Ciência** (2013)](http://prograd.ufabc.edu.br/images/pdf/bases_computacionais_livro.pdf).
 
-### Aula 2 -- [Representação gráfica de funções](https://nbviewer.jupyter.org/github/rnwatanabe/BasesComputacionais2019/blob/master/aula2/Representa%C3%A7%C3%A3o%20gr%C3%A1fica%20de%20fun%C3%A7%C3%B5es.ipynb)
+### Aula 2 -- [Variáveis e Algoritmos](https://nbviewer.jupyter.org/format/slides/github/rnwatanabe/BasesComputacionais2019/blob/master/aula2/Vari%C3%A1veis%20e%20algoritmos.ipynb#/)
+
+### Aula 3 -- [Representação gráfica de algoritmos](https://nbviewer.jupyter.org/format/slides/github/rnwatanabe/BasesComputacionais2019/blob/master/aula2/Vari%C3%A1veis%20e%20algoritmos.ipynb#/)
