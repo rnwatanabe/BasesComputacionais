@@ -28,7 +28,7 @@ Curso básico sobre análise de dados como foi ministrado por mim no segundo qua
 
   + Prova sobre as seções 1.1, 1.2 e 1.3 do livro [Marietto, MGB et al.; **Bases computacionais da Ciência** (2013)](http://prograd.ufabc.edu.br/images/pdf/bases_computacionais_livro.pdf).
 
-- **[Tarefa 3 (para aula 2)](https://nbviewer.jupyter.org/format/slides/github/rnwatanabe/BasesComputacionais2019/blob/master/aula2/Vari%C3%A1veis%20e%20algoritmos.ipynb#/21)**
+- **[Tarefa 3 (durante a aula 2)](https://nbviewer.jupyter.org/format/slides/github/rnwatanabe/BasesComputacionais2019/blob/master/aula2/Vari%C3%A1veis%20e%20algoritmos.ipynb#/21)**
 
 - **[Tarefa 4 (para antes da aula de 05/07/2019)](https://nbviewer.jupyter.org/format/slides/github/rnwatanabe/BasesComputacionais2019/blob/master/aula2/Vari%C3%A1veis%20e%20algoritmos.ipynb#/22)**
 
