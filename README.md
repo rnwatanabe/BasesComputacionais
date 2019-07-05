@@ -34,8 +34,8 @@ Curso básico sobre análise de dados como foi ministrado por mim no segundo qua
 
 ### **Aula 3 -- [Representação gráfica de funções](https://nbviewer.jupyter.org/format/slides/github/rnwatanabe/BasesComputacionais2019/blob/master/aula3/Representa%C3%A7%C3%A3oGraficaDeFun%C3%A7%C3%B5es.ipynb#/) -- (05/07/2019)**
 
-- **Tarefa 5 (durante a aula 3)**
+- **[Tarefa 5 (durante a aula 3)](https://nbviewer.jupyter.org/format/slides/github/rnwatanabe/BasesComputacionais2019/blob/master/aula3/Representa%C3%A7%C3%A3oGraficaDeFun%C3%A7%C3%B5es.ipynb#/19)**
 
-- **Tarefa 6 (para antes da aula de 12/07/2019)**
+- **[Tarefa 6 (para antes da aula de 12/07/2019)](https://nbviewer.jupyter.org/format/slides/github/rnwatanabe/BasesComputacionais2019/blob/master/aula3/Representa%C3%A7%C3%A3oGraficaDeFun%C3%A7%C3%B5es.ipynb#/20)**
 
 ### **Aula 4 -- [Bases de dados](https://nbviewer.jupyter.org/format/slides/github/rnwatanabe/BasesComputacionais2019/blob/master/aula4/BasesDeDados.ipynb#/) (12/07/2019)**
