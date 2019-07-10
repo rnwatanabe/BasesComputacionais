@@ -1,4 +1,4 @@
-Produto;Fabricante;Qtd.;Medida;Preço;Supermercado;Data
+Produto;Fabricante;Qtd;Medida;Preço;Supermercado;Data
 Suco;ValeSuco;1;l;3,00;Arpoador;12/05/2011
 Suco;Flash;1;l;4,50;Arpoador;12/05/2011
 Tomate; - ;1;kg;3,50;Noite;14/05/2011
