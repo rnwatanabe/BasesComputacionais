@@ -38,7 +38,7 @@ Curso básico sobre análise de dados como foi ministrado por mim no segundo qua
 
 - **[Tarefa 6 (para antes da aula de 12/07/2019)](https://nbviewer.jupyter.org/format/slides/github/rnwatanabe/BasesComputacionais2019/blob/master/aula3/Representa%C3%A7%C3%A3oGraficaDeFun%C3%A7%C3%B5es.ipynb#/21)**
 
-### **Aula4 - [Estruturas Condicionais](https://nbviewer.jupyter.org/format/slides/github/rnwatanabe/BasesComputacionais2019/blob/master/aula4/EstruturasCondicionais.ipynb#/) -- (12/07/2019)**
+### **Aula 4 - [Estruturas Condicionais](https://nbviewer.jupyter.org/format/slides/github/rnwatanabe/BasesComputacionais2019/blob/master/aula4/EstruturasCondicionais.ipynb#/) -- (12/07/2019)**
 
 ### **Aula 5 -- [Bases de dados](https://nbviewer.jupyter.org/format/slides/github/rnwatanabe/BasesComputacionais2019/blob/master/aula5/BasesDeDados.ipynb#/) -- (19/07/2019)**
 
