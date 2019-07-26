@@ -52,6 +52,10 @@ Curso básico sobre análise de dados como foi ministrado por mim no segundo qua
 
 ### **Aula 6 -- [Estruturas de repetição](https://nbviewer.jupyter.org/format/slides/github/rnwatanabe/BasesComputacionais2019/blob/master/aula6/EstruturasDeRepeticao.ipynb#/) -- (26/07/2019)**
 
+- **[Tarefa 11 (durante a aula 6)](https://nbviewer.jupyter.org/format/slides/github/rnwatanabe/BasesComputacionais2019/blob/master/aula6/EstruturasDeRepeticao.ipynb#/17)**
+
+- **[Tarefa 12 (para antes da aula de 02/08/2019)](https://nbviewer.jupyter.org/format/slides/github/rnwatanabe/BasesComputacionais2019/blob/master/aula6/EstruturasDeRepeticao.ipynb#/18)**
+
 ### **Aula 7 -- [Noções de Estatística](https://nbviewer.jupyter.org/format/slides/github/rnwatanabe/BasesComputacionais2019/blob/master/aula7/Estatistica.ipynb#/) -- (02/08/2019)**
 
 ### **Aula 8 -- [Funções](https://nbviewer.jupyter.org/github/rnwatanabe/BasesComputacionais2019/blob/master/aula8/Funcoes.ipynb) -- (09/08/2019)**
