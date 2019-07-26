@@ -12,7 +12,7 @@ Curso básico sobre análise de dados como foi ministrado por mim no segundo qua
 
  - **Tarefa 1 (para aula 1).**
 
-    + Abrir uma conta no [Github](www.github.com).
+    + Abrir uma conta no [Github](http://www.github.com).
 
     + Abrir um novo repositório privado.
 
