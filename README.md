@@ -34,9 +34,9 @@ Curso básico sobre análise de dados como foi ministrado por mim no segundo qua
 
 ### **Aula 3 -- [Representação gráfica de funções](https://nbviewer.jupyter.org/format/slides/github/rnwatanabe/BasesComputacionais2019/blob/master/aula3/Representa%C3%A7%C3%A3oGraficaDeFun%C3%A7%C3%B5es.ipynb#/) -- (05/07/2019)**
 
-- **[Tarefa 5 (durante a aula 3)](https://nbviewer.jupyter.org/format/slides/github/rnwatanabe/BasesComputacionais2019/blob/master/aula3/Representa%C3%A7%C3%A3oGraficaDeFun%C3%A7%C3%B5es.ipynb#/20)**
+- **[Tarefa 5 (durante a aula 3)](https://nbviewer.jupyter.org/format/slides/github/rnwatanabe/BasesComputacionais2019/blob/master/aula3/Representa%C3%A7%C3%A3oGraficaDeFun%C3%A7%C3%B5es.ipynb#/19)**
 
-- **[Tarefa 6 (para antes da aula de 12/07/2019)](https://nbviewer.jupyter.org/format/slides/github/rnwatanabe/BasesComputacionais2019/blob/master/aula3/Representa%C3%A7%C3%A3oGraficaDeFun%C3%A7%C3%B5es.ipynb#/21)**
+- **[Tarefa 6 (para antes da aula de 12/07/2019)](https://nbviewer.jupyter.org/format/slides/github/rnwatanabe/BasesComputacionais2019/blob/master/aula3/Representa%C3%A7%C3%A3oGraficaDeFun%C3%A7%C3%B5es.ipynb#/20)**
 
 ### **Aula 4 - [Estruturas Condicionais](https://nbviewer.jupyter.org/format/slides/github/rnwatanabe/BasesComputacionais2019/blob/master/aula4/EstruturasCondicionais.ipynb#/) -- (12/07/2019)**
 
@@ -58,9 +58,9 @@ Curso básico sobre análise de dados como foi ministrado por mim no segundo qua
 
 ### **Aula 7 -- [Noções de Estatística](https://nbviewer.jupyter.org/format/slides/github/rnwatanabe/BasesComputacionais2019/blob/master/aula7/Estatistica.ipynb#/) -- (02/08/2019)**
 
-- **[Tarefa 13 (durante a aula 7)](https://nbviewer.jupyter.org/format/slides/github/rnwatanabe/BasesComputacionais2019/blob/master/aula7/Estatistica.ipynb#/21)**
+- **[Tarefa 13 (durante a aula 7)](https://nbviewer.jupyter.org/format/slides/github/rnwatanabe/BasesComputacionais2019/blob/master/aula7/Estatistica.ipynb#/22)**
 
-- **[Tarefa 14 (para antes da aula de 09/08/2019)](https://nbviewer.jupyter.org/format/slides/github/rnwatanabe/BasesComputacionais2019/blob/master/aula7/Estatistica.ipynb#/22)**
+- **[Tarefa 14 (para antes da aula de 09/08/2019)](https://nbviewer.jupyter.org/format/slides/github/rnwatanabe/BasesComputacionais2019/blob/master/aula7/Estatistica.ipynb#/23)**
 
 ### **Aula 8 -- [Funções](https://nbviewer.jupyter.org/github/rnwatanabe/BasesComputacionais2019/blob/master/aula8/Funcoes.ipynb) -- (09/08/2019)**
 
