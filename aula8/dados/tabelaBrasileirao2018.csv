@@ -40,7 +40,7 @@ Data,Turno,Mandante,Placar do Mandante,Placar do Visitante,Visitante,Estádio,Ho
 6/05/2018,1,Grêmio,5,1,Santos,"Arena do Grêmio, Porto Alegre",19:00,"Maicon 31', 54' Everton 45+1' André 69' Arthur 79'",32' Jean Mota,25779, PE Péricles Bassols,822996.0
 7/05/2018,1,Chapecoense,1,1,Paraná,"Arena Condá, Chapecó",20:00,Arthur 63',68' Carlos,7288, SP Raphael Claus,155770.0
 12/05/2018,1,Grêmio,0,0,Internacional,"Arena do Grêmio, Porto Alegre",16:00,,,48035, GO Wilton Pereira Sampaio,2094717.0
-13/05/2018,1,Cruzeiro,2,0,Sport,"Estádio Mineirão, Belo Horizonte",11:00,Dedé 45+1' Arrascaeta 55',,16303, RJ Bruno Arleu de Araújo,40783100.0
+13/05/2018,1,Cruzeiro,2,0,Sport,"Estádio Mineirão, Belo Horizonte",11:00,Dedé 45+1' Arrascaeta 55',,16303, RJ Bruno Arleu de Araújo,407831.0
 13/05/2018,1,Chapecoense,3,2,Flamengo,"Arena Condá, Chapecó",16:00,Canteros 23' Guilherme 63' (pen) Leandro Pereira 90',49' Guerrero 78' Vinícius Júnior,10242, RS Leandro Pedro Vuaden,400565.0
 13/05/2018,1,Vasco da Gama,2,3,Vitória,"Estádio São Januário, Rio de Janeiro",16:00,Yago Pikachu 40' (pen) Ríos 82',17' André Lima 71' Lucas 76' Werley,3143, RS Jean Pierre Gonçalves Lima,81630.0
 13/05/2018,1,Atlético Paranaense,1,2,Atlético Mineiro,"Arena da Baixada, Curitiba",16:00,Pablo 31',54' Bremer 65' Róger Guedes,7505, SP Luiz Flávio de Oliveira,115685.0
@@ -64,12 +64,12 @@ Data,Turno,Mandante,Placar do Mandante,Placar do Visitante,Visitante,Estádio,Ho
 26/05/2018,1,Atlético Mineiro,0,1,Flamengo,"Estádio Independência, Belo Horizonte",21:00,,79' Éverton Ribeiro,14840, RS Anderson Daronco,561325.0
 27/05/2018,1,Paraná,0,0,Atlético Paranaense,"Estádio Vila Capanema, Curitiba",11:00,,,6446, SP Vinícius Gonçalves Dias Araújo,146405.0
 27/05/2018,1,Santos,0,1,Cruzeiro,"Estádio do Pacaembu, São Paulo",16:00,,75' Bruno Silva,8504, PR Paulo Roberto Alves Junior,349730.0
-27/05/2018,1,Bahia,3,0,Vasco da Gama,"Arena Fonte Nova, Salvador",16:00,Élber 76' Zé Rafael 87' Régis 90+1',,15031, PR Rodolpho Toski Marques,29205100.0
+27/05/2018,1,Bahia,3,0,Vasco da Gama,"Arena Fonte Nova, Salvador",16:00,Élber 76' Zé Rafael 87' Régis 90+1',,15031, PR Rodolpho Toski Marques,292051.0
 27/05/2018,1,Internacional,2,1,Corinthians,"Estádio Beira-Rio, Porto Alegre",16:00,Leandro Damião 63' Rossi 90+1',4' Mateus Vital,27621, PE Péricles Bassols,795765.0
 27/05/2018,1,Botafogo,1,1,Vitória,"Estádio Engenhão, Rio de Janeiro",16:00,Kieza 43',38' Denílson,4759, SP Flávio Rodrigues de Souza,129145.0
 27/05/2018,1,Ceará,0,1,Grêmio,"Estádio Castelão, Fortaleza",19:00,,81' Thonny Anderson,14012, MT Wagner Reway,128138.0
 27/05/2018,1,América Mineiro,1,3,São Paulo,"Estádio Independência, Belo Horizonte",19:00,Rafael Moura 12',"8' Diego Souza 45+3' (pen), 61' Nenê",3883, RJ Bruno Arleu de Araújo,64570.0
-30/05/2018,1,Vitória,2,3,Internacional,"Estádio Barradão, Salvador",19:30,Wallyson 45' Aderllan 58',24' Patrick 38' Aderllan 90+3' Nico López,5591, SP Raphael Claus,5210100.0
+30/05/2018,1,Vitória,2,3,Internacional,"Estádio Barradão, Salvador",19:30,Wallyson 45' Aderllan 58',24' Patrick 38' Aderllan 90+3' Nico López,5591, SP Raphael Claus,52101.0
 30/05/2018,1,Vasco da Gama,1,0,Paraná,"Estádio São Januário, Rio de Janeiro",19:30,Yago Pikachu 43',,4221, RS Leandro Pedro Vuaden,101875.0
 30/05/2018,1,Sport,3,2,Atlético Mineiro,"Estádio Ilha do Retiro, Recife",19:30,Rogério 29' Gabriel 67' Michel Bastos 71' (pen),48' Cazares 65' Ricardo Oliveira,11609, RJ Wagner do Nascimento Magalhães,241945.0
 30/05/2018,1,São Paulo,3,2,Botafogo,"Estádio do Morumbi, São Paulo",21:00,Nenê 17' (pen) Diego Souza 30' Éverton 45+4',15' Valencia 82' Rodrigo Pimpão,25427, GO Wilton Pereira Sampaio,547988.0
@@ -106,7 +106,7 @@ Data,Turno,Mandante,Placar do Mandante,Placar do Visitante,Visitante,Estádio,Ho
 10/06/2018,1,Atlético Mineiro,5,2,Fluminense,"Estádio Independência, Belo Horizonte",16:00,"Leonardo Silva 34' Róger Guedes 45', 90+4' Tomás Andrade 63' Ricardo Oliveira 86'",28' Gilberto 45+2' Pedro,13413, SP Flávio Rodrigues de Souza,246095.0
 10/06/2018,1,Bahia,3,3,Botafogo,"Arena Fonte Nova, Salvador",16:00,Régis 45+5' (pen) Vinícius 74' Allione 90+3',"12', 51' Kieza 84' Valencia",12479, SP Leandro Bizzio Marinho,189549.0
 10/06/2018,1,Ceará,2,2,Palmeiras,"Estádio Castelão, Fortaleza",16:00,Felipe Azevedo 26' Elton 88',6' Thiago Santos 23' Dudu,32081, RS Jean Pierre Gonçalves Lima,959576.0
-10/06/2018,1,Grêmio,1,0,América Mineiro,"Arena do Grêmio, Porto Alegre",16:00,Everton 31',,12953, SC Rodrigo D'Alonso Ferreira,37202100.0
+10/06/2018,1,Grêmio,1,0,América Mineiro,"Arena do Grêmio, Porto Alegre",16:00,Everton 31',,12953, SC Rodrigo D'Alonso Ferreira,372021.0
 10/06/2018,1,Flamengo,2,0,Paraná,"Estádio do Maracanã, Rio de Janeiro",19:00,Diego 20' Felipe Vizeu 65',,54256, SP Marcelo Aparecido Ribeiro de Souza,1745965.0
 10/06/2018,1,Santos,1,2,Internacional,"Estádio Vila Belmiro, Santos",19:00,Gabriel 50' (pen),32' (pen) Leandro Damião 52' Cuesta,8124, RJ Wagner do Nascimento Magalhães,179645.0
 12/06/2018,1,São Paulo,3,0,Vitória,"Estádio do Morumbi, São Paulo",21:30,"Nenê 21', 42' Éverton 54'",,20456, MG Igor Junio Benevenuto,468038.0
@@ -123,7 +123,7 @@ Data,Turno,Mandante,Placar do Mandante,Placar do Visitante,Visitante,Estádio,Ho
 18/07/2018,1,Vitória,1,0,Paraná,"Estádio Barradão, Salvador",21:00,André Lima 34',,6358, DF Sávio Pereira Sampaio,67088.5
 18/07/2018,1,Flamengo,0,1,São Paulo,"Estádio do Maracanã, Rio de Janeiro",21:45,,47' Éverton,51777, PR Paulo Roberto Alves Júnior,1588687.0
 18/07/2018,1,Corinthians,2,0,Botafogo,"Arena Corinthians, São Paulo",21:45,Rodriguinho 2' Romero 75',,19830, SC Rodrigo D'Alonso Ferreira,813687.13
-18/07/2018,1,Grêmio,2,0,Atlético Mineiro,"Arena do Grêmio, Porto Alegre",21:45,Bressan 54' André 58',,20311, SP Flávio Rodrigues de Souza,63752100.0
+18/07/2018,1,Grêmio,2,0,Atlético Mineiro,"Arena do Grêmio, Porto Alegre",21:45,Bressan 54' André 58',,20311, SP Flávio Rodrigues de Souza,637521.0
 19/07/2018,1,Cruzeiro,3,1,América Mineiro,"Estádio Mineirão, Belo Horizonte",19:30,Arrascaeta 34' Robinho 59' Raniel 64',31' Christian,13160, SP Raphael Claus,294127.0
 19/07/2018,1,Chapecoense,1,1,Bahia,"Arena Condá, Chapecó",19:30,Osman 84',78' Gilberto,7036, PR Rodolpho Toski Marques,156310.0
 19/07/2018,1,Santos,1,1,Palmeiras,"Estádio do Pacaembu, São Paulo",20:00,Gustavo Henrique 74',5' Lucas Lima,23572, PA Dewson Fernando Freitas da Silva,748458.0
@@ -160,7 +160,7 @@ Data,Turno,Mandante,Placar do Mandante,Placar do Visitante,Visitante,Estádio,Ho
 29/07/2018,1,Santos,0,1,América Mineiro,"Estádio Vila Belmiro, Santos",19:00,,39' (pen) Ruy,8691, PR Rafael Traci,155868.0
 30/07/2018,1,Bahia,2,2,Atlético Mineiro,"Arena Fonte Nova, Salvador",20:00,Gilberto 84' Régis 90+4',5' Matheus Galdezani 90+2' Ricardo Oliveira,15993, GO Wilton Pereira Sampaio,275277.0
 4/08/2018,1,Botafogo,0,0,Santos,"Estádio Engenhão, Rio de Janeiro",16:00,,,6261, PR Paulo Roberto Alves Júnior,122665.0
-4/08/2018,1,Grêmio,2,0,Flamengo,"Arena do Grêmio, Porto Alegre",19:00,Jael 45+1' Marinho 48',,14649, PR Rafael Traci,49916100.0
+4/08/2018,1,Grêmio,2,0,Flamengo,"Arena do Grêmio, Porto Alegre",19:00,Jael 45+1' Marinho 48',,14649, PR Rafael Traci,499161.0
 4/08/2018,1,Corinthians,0,0,Atlético Paranaense,"Arena Corinthians, São Paulo",21:00,,,28455, PE Péricles Bassols,1087600.64
 5/08/2018,1,Vitória,1,1,Cruzeiro,"Estádio Barradão, Salvador",16:00,Neilton 71' (pen),75' Manoel,7193, GO Eduardo Tomaz de Aquino Valadão,86183.0
 5/08/2018,1,São Paulo,2,1,Vasco da Gama,"Estádio do Morumbi, São Paulo",16:00,Rojas 1' Tréllez 80',54' Yago Pikachu,53437, SC Bráulio da Silva Machado,1863410.0
@@ -190,7 +190,7 @@ Data,Turno,Mandante,Placar do Mandante,Placar do Visitante,Visitante,Estádio,Ho
 19/08/2018,1,São Paulo,2,0,Chapecoense,"Estádio do Morumbi, São Paulo",19:00,Shaylon 3' Hudson 83',,41075, PR Rafael Traci,1348906.0
 20/08/2018,1,Vasco da Gama,1,1,Ceará,"Estádio São Januário, Rio de Janeiro",20:00,Wagner 60',65' Tiago Alves,15093, SP Vinícius Gonçalves Dias Araújo,378105.0
 8/08/2018,2,Ceará,1,1,Santos,"Estádio Presidente Vargas, Fortaleza",19:30,Arthur 78',86' Jean Mota,17047, RJ Marcelo de Lima Henrique,169435.0
-22/08/2018,2,Bahia,0,1,Internacional,"Arena Fonte Nova, Salvador",19:30,,23' Patrick,18671, SC Rodrigo D'Alonso Ferreira,33926100.0
+22/08/2018,2,Bahia,0,1,Internacional,"Arena Fonte Nova, Salvador",19:30,,23' Patrick,18671, SC Rodrigo D'Alonso Ferreira,339261.0
 22/08/2018,2,Paraná,1,1,São Paulo,"Estádio Vila Capanema, Curitiba",19:30,Júnior 37',8' Nenê,7635, PE Péricles Bassols,296420.0
 22/08/2018,2,Palmeiras,2,0,Botafogo,"Allianz Parque, São Paulo",21:00,"Lucas Lima 78', 87'",,24882, RS Anderson Daronco,1446357.26
 22/08/2018,2,Sport,0,2,América Mineiro,"Estádio Ilha do Retiro, Recife",21:00,,47' Luan 67' Rafael Moura,10753, BA Jaílson Macedo Freitas,112605.0
@@ -232,7 +232,7 @@ Data,Turno,Mandante,Placar do Mandante,Placar do Visitante,Visitante,Estádio,Ho
 8/09/2018,2,Sport,0,0,Cruzeiro,"Estádio Ilha do Retiro, Recife",16:00,,,5099, SP Vinícius Gonçalves Dias Araújo,53860.0
 8/09/2018,2,São Paulo,1,0,Bahia,"Estádio do Morumbi, São Paulo",19:00,Diego Souza 60',,43555, GO André Luiz de Freitas Castro,1696417.5
 8/09/2018,2,Flamengo,2,0,Chapecoense,"Estádio do Maracanã, Rio de Janeiro",21:00,Renê 44' Diego 57' (pen),,28983, SP Leandro Bizzio Marinho,739360.0
-9/09/2018,2,Internacional,1,0,Grêmio,"Estádio Beira-Rio, Porto Alegre",16:00,Edenílson 58',,40078, PE Péricles Bassols,137562100.0
+9/09/2018,2,Internacional,1,0,Grêmio,"Estádio Beira-Rio, Porto Alegre",16:00,Edenílson 58',,40078, PE Péricles Bassols,1375621.0
 9/09/2018,2,Fluminense,1,0,Botafogo,"Estádio do Maracanã, Rio de Janeiro",16:00,Digão 10',,10031, RS Leandro Pedro Vuaden,231090.0
 9/09/2018,2,América Mineiro,0,0,Ceará,"Estádio Independência, Belo Horizonte",16:00,,,3641, RS Daniel Nobre Bins,36625.0
 9/09/2018,2,Palmeiras,1,0,Corinthians,"Allianz Parque, São Paulo",16:00,Deyverson 56',,38568, RS Jean Pierre Gonçalves Lima,2781213.42
@@ -285,7 +285,7 @@ Data,Turno,Mandante,Placar do Mandante,Placar do Visitante,Visitante,Estádio,Ho
 14/10/2018,2,Chapecoense,0,1,Vitória,"Arena Condá, Chapecó",11:00,,38' Lucas Fernandes,5717, RS Leandro Pedro Vuaden,116000.0
 14/10/2018,2,Vasco da Gama,2,0,Cruzeiro,"Estádio São Januário, Rio de Janeiro",16:00,Yago Pikachu 49' Maxi López 70',,10841, SP Marcelo Aparecido Ribeiro de Souza,249945.0
 14/10/2018,2,Palmeiras,2,0,Grêmio,"Estádio do Pacaembu, São Paulo",16:00,"Deyverson 8', 79'",,32915, MG Ricardo Marques Ribeiro,1254125.0
-14/10/2018,2,Internacional,3,1,São Paulo,"Estádio Beira-Rio, Porto Alegre",16:00,"Leandro Damião 45+1', 52' Nico López 90+5' (pen)",3' Liziero,40345, SC Bráulio da Silva Machado,130752100.0
+14/10/2018,2,Internacional,3,1,São Paulo,"Estádio Beira-Rio, Porto Alegre",16:00,"Leandro Damião 45+1', 52' Nico López 90+5' (pen)",3' Liziero,40345, SC Bráulio da Silva Machado,1307521.0
 14/10/2018,2,Atlético Mineiro,0,0,América Mineiro,"Estádio Indepedência, Belo Horizonte",19:00,,,19362, SP Flávio Rodrigues de Souza,181204.0
 14/10/2018,2,Atlético Paranaense,4,0,Sport,"Arena da Baixada, Curitiba",19:00,"Thiago Heleno 47' Bérgson 55' (pen), 83' Rony 85'",,9139, MT Wagner Reway,196235.0
 15/10/2018,2,Ceará,0,0,Botafogo,"Estádio Castelão, Fortaleza",20:00,,,29394, SP Raphael Claus,402313.0
@@ -330,14 +330,14 @@ Data,Turno,Mandante,Placar do Mandante,Placar do Visitante,Visitante,Estádio,Ho
 11/11/2018,2,Fluminense,0,0,Sport,"Estádio do Maracanã, Rio de Janeiro",19:00,,,11630, SP Flávio Rodrigues de Souza,85355.0
 12/11/2018,2,Santos,0,1,Chapecoense,"Estádio do Pacaembu, São Paulo",20:00,,28' Leandro Pereira,10792, PR Rafael Traci,334014.5
 14/11/2018,2,Vasco da Gama,1,1,Atlético Paranaense,"Estádio São Januário, Rio de Janeiro",19:30,Thiago Galhardo 66' (pen),90+4' Léo Pereira,20212, RS Leandro Pedro Vuaden,306340.0
-14/11/2018,2,Bahia,2,1,Ceará,"Arena Fonte Nova, Salvador",21:00,Zé Rafael 43' Edigar Junio 90+2',7' Calyson,17884, SP Raphael Claus,32882100.0
+14/11/2018,2,Bahia,2,1,Ceará,"Arena Fonte Nova, Salvador",21:00,Zé Rafael 43' Edigar Junio 90+2',7' Calyson,17884, SP Raphael Claus,328821.0
 14/11/2018,2,Paraná,0,1,Atlético Mineiro,"Estádio Vila Capanema, Curitiba",21:00,,13' (pen) Fábio Santos,1140, RJ Wagner do Nascimento Magalhães,22940.0
 14/11/2018,2,Sport,0,0,Vitória,"Estádio Ilha do Retiro, Recife",21:45,,,14475, RS Anderson Daronco,214425.0
-14/11/2018,2,Palmeiras,3,0,Fluminense,"Allianz Parque, São Paulo",21:45,Borja 40' Felipe Melo 82' Luan 89',,37430, SC Bráulio da Silva Machado,248093196.0
+14/11/2018,2,Palmeiras,3,0,Fluminense,"Allianz Parque, São Paulo",21:45,Borja 40' Felipe Melo 82' Luan 89',,37430, SC Bráulio da Silva Machado,2480931.96
 14/11/2018,2,Cruzeiro,1,0,Corinthians,"Estádio Mineirão, Belo Horizonte",21:45,David 13',,8151, RS Jean Pierre Gonçalves Lima,128669.0
 15/11/2018,2,Flamengo,1,0,Santos,"Estádio do Maracanã, Rio de Janeiro",17:00,Henrique Dourado 72',,43547, PR Paulo Roberto Alves Júnior,1136024.0
 15/11/2018,2,Chapecoense,0,1,Botafogo,"Arena Condá, Chapecó",17:00,,72' Luiz Fernando,16593, SP Luiz Flávio de Oliveira,255850.0
-15/11/2018,2,São Paulo,1,1,Grêmio,"Estádio do Morumbi, São Paulo",19:00,Michel 73',56' Everton,24757, PE Péricles Bassols,75916100.0
+15/11/2018,2,São Paulo,1,1,Grêmio,"Estádio do Morumbi, São Paulo",19:00,Michel 73',56' Everton,24757, PE Péricles Bassols,759161.0
 15/11/2018,2,Internacional,2,0,América Mineiro,"Estádio Beira-Rio, Porto Alegre",21:00,Leandro Damião 23' Edenílson 45',,25654, GO Wilton Pereira Sampaio,654065.0
 17/11/2018,2,Vitória,1,2,Atlético Paranaense,"Estádio Barradão, Salvador",19:00,Neilton 90+2' (pen),26' Ramon 86' Bruno Guimarães,8440, SP Flávio Rodrigues de Souza,61140.0
 17/11/2018,2,Corinthians,1,0,Vasco da Gama,"Arena Corinthians, São Paulo",19:00,Mateus Vital 50',,38605, GO Wilton Pereira Sampaio,1350667.5
@@ -351,8 +351,8 @@ Data,Turno,Mandante,Placar do Mandante,Placar do Visitante,Visitante,Estádio,Ho
 19/11/2018,2,Fluminense,0,0,Ceará,"Estádio do Maracanã, Rio de Janeiro",20:00,,,5945, RS Anderson Daronco,105015.0
 21/11/2018,2,Internacional,1,2,Atlético Mineiro,"Estádio Beira-Rio, Porto Alegre",19:30,D'Alessandro 82' (pen),42' Cazares 90+2' Terans,22299, SP Raphael Claus,510090.0
 21/11/2018,2,Santos,1,1,Botafogo,"Estádio Vila Belmiro, Santos",21:00,Rodrygo 35',59' Brenner,3620, SC Héber Roberto Lopes,64715.5
-21/11/2018,2,Flamengo,2,0,Grêmio,"Estádio do Maracanã, Rio de Janeiro",21:45,Uribe 46' Diego 89',,33932, SC Bráulio da Silva Machado,70136100.0
-21/11/2018,2,Cruzeiro,3,0,Vitória,"Estádio Mineirão, Belo Horizonte",21:45,"Aderllan 42' Fred 54' (pen), 71'",,1914, SP Leandro Bizzio Marinho,2178100.0
+21/11/2018,2,Flamengo,2,0,Grêmio,"Estádio do Maracanã, Rio de Janeiro",21:45,Uribe 46' Diego 89',,33932, SC Bráulio da Silva Machado,701361.0
+21/11/2018,2,Cruzeiro,3,0,Vitória,"Estádio Mineirão, Belo Horizonte",21:45,"Aderllan 42' Fred 54' (pen), 71'",,1914, SP Leandro Bizzio Marinho,21781.0
 21/11/2018,2,Atlético Paranaense,1,0,Corinthians,"Arena da Baixada, Curitiba",21:45,Léo Pereira 51',,14390, RJ Marcelo de Lima Henrique,422925.0
 21/11/2018,2,Palmeiras,4,0,América Mineiro,"Allianz Parque, São Paulo",21:45,Luan 58' Willian 75' Dudu 77' Deyverson 82',,39429, PR Paulo Roberto Alves Júnior,2615582.46
 22/11/2018,2,Vasco da Gama,2,0,São Paulo,"Estádio São Januário, Rio de Janeiro",20:00,Andrey 17' Yago Pikachu 90+4',,14426, RS Anderson Daronco,354345.0
@@ -367,13 +367,13 @@ Data,Turno,Mandante,Placar do Mandante,Placar do Visitante,Visitante,Estádio,Ho
 25/11/2018,2,América Mineiro,1,0,Bahia,"Estádio Independência, Belo Horizonte",19:00,Juninho 47',,3747, SP Marcelo Aparecido Ribeiro de Souza,19635.0
 25/11/2018,2,Corinthians,0,0,Chapecoense,"Arena Corinthians, São Paulo",19:00,,,35888, PR Paulo Roberto Alves Júnior,1219472.0
 25/11/2018,2,Internacional,2,0,Fluminense,"Estádio Beira-Rio, Porto Alegre",19:00,"Nico López 75', 89'",,27535, SC Héber Roberto Lopes,656330.0
-26/11/2018,2,São Paulo,0,0,Sport,"Estádio do Morumbi, São Paulo",20:00,,,15235, GO André Luiz de Freitas Castro,45432100.0
+26/11/2018,2,São Paulo,0,0,Sport,"Estádio do Morumbi, São Paulo",20:00,,,15235, GO André Luiz de Freitas Castro,454321.0
 26/11/2018,2,Botafogo,2,1,Paraná,"Estádio Engenhão, Rio de Janeiro",20:00,"Erik 6', 74'",63' Alex Santana,27480, MG Igor Junio Benevenuto,301970.0
 1/12/2018,2,Flamengo,1,2,Atlético Paranaense,"Estádio do Maracanã, Rio de Janeiro",19:00,Rhodolfo 23',65' Matheus Rossetto 71' Roni,62994, SP Flávio Rodrigues de Souza,697255.0
 1/12/2018,2,Atlético Mineiro,1,0,Botafogo,"Estádio Independência, Belo Horizonte",19:00,Cazares 18',,19171, SC Bráulio da Silva Machado,313452.0
 2/12/2018,2,Paraná,1,1,Internacional,"Estádio Vila Capanema, Curitiba",17:00,Jhonny Lucas 90+1',65' Álvez,2228, RJ Rodrigo Carvalhaes de Miranda,88495.0
 2/12/2018,2,Chapecoense,1,0,São Paulo,"Arena Condá, Chapecó",17:00,Leandro Pereira 67',,19226, GO Wilton Pereira Sampaio,331630.0
-2/12/2018,2,Bahia,0,0,Cruzeiro,"Estádio de Pituaçu, Salvador",17:00,,,27776, RJ Bruno Arleu de Araújo,33869100.0
+2/12/2018,2,Bahia,0,0,Cruzeiro,"Estádio de Pituaçu, Salvador",17:00,,,27776, RJ Bruno Arleu de Araújo,338691.0
 2/12/2018,2,Fluminense,1,0,América Mineiro,"Estádio do Maracanã, Rio de Janeiro",17:00,Richard 40',,34870, PR Rafael Traci,139932.5
 2/12/2018,2,Ceará,0,0,Vasco da Gama,"Estádio Castelão, Fortaleza",17:00,,,57223, SP Raphael Claus,1128494.0
 2/12/2018,2,Palmeiras,3,2,Vitória,"Allianz Parque, São Paulo",17:00,Edu Dracena 42' Gustavo Scarpa 56' Bruno Henrique 89',70' (pen) Yago 72' Luan,41256, SC Héber Roberto Lopes,3514618.3
