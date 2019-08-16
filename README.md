@@ -70,6 +70,11 @@ Curso básico sobre análise de dados como foi ministrado por mim no segundo qua
 
 ### **Aula 9 -- [Regressão](https://nbviewer.jupyter.org/format/slides/github/rnwatanabe/BasesComputacionais2019/blob/master/aula9/Regress%C3%A3o.ipynb#/) -- (16/08/2019)**
 
+- **[Tarefa 17 (para agora)](https://nbviewer.jupyter.org/format/slides/github/rnwatanabe/BasesComputacionais2019/blob/master/aula9/Regress%C3%A3o.ipynb#/19)
+
+- - **[Tarefa 18 (para agora)](https://nbviewer.jupyter.org/format/slides/github/rnwatanabe/BasesComputacionais2019/blob/master/aula9/Regress%C3%A3o.ipynb#/20)
+
+
 ### **Aula 10 -- [Aplicações de computação - modelagem](https://nbviewer.jupyter.org/github/rnwatanabe/BasesComputacionais2019/blob/master/aula10/Modelagem.ipynb) -- (23/08/2019)**
 
 ### **Aula 11 -- [Aplicações de computação](https://nbviewer.jupyter.org/github/rnwatanabe/BasesComputacionais2019/blob/master/aula11/Modelagem2.ipynb) -- (28/08/2019)**
