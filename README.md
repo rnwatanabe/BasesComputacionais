@@ -76,3 +76,11 @@ Curso básico sobre análise de dados como foi ministrado por mim no segundo qua
 
 ### **Aula 10 -- [Exemplos de modelagem](https://nbviewer.jupyter.org/format/slides/github/rnwatanabe/BasesComputacionais2019/blob/master/aula10/Modelagem.ipynb#) -- (23/08/2019)**
 
+- **[Tarefa 19 (para agora)](https://nbviewer.jupyter.org/format/slides/github/rnwatanabe/BasesComputacionais2019/blob/master/aula10/Modelagem.ipynb#/23) **
+
+- **[Tarefa 20 (para o dia 30/08/2019)](https://nbviewer.jupyter.org/format/slides/github/rnwatanabe/BasesComputacionais2019/blob/master/aula10/Modelagem.ipynb#/24) **
+
+- **[Tarefa Substitutiva (substituirá a pior nota, para 02/09/2019)](https://nbviewer.jupyter.org/format/slides/github/rnwatanabe/BasesComputacionais2019/blob/master/aula10/Modelagem.ipynb#/26) **
+
+
+
