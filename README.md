@@ -1,6 +1,5 @@
 # BasesComputacionais2019
 
-**Prova de Recuperação**: 02/10/2019 das 19h00 às 21h00, no laboratório A1-L101 (confirmar presença por e-mail).
 
 Renato Naville Watanabe
 
