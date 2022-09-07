@@ -3,10 +3,7 @@
 
 Renato Naville Watanabe
 
-Basic course on data analysis (in Portuguese). 
-Curso básico sobre análise de dados.
-
-
+Curso básico sobre análise de dados (Basic course on data analysis, in Portuguese). 
 
 ### **Semana 1 -- [Apresentação](https://nbviewer.jupyter.org/format/slides/github/rnwatanabe/BasesComputacionais/blob/master/aula1/Apresenta%C3%A7%C3%A3o.ipynb#/)**
 
