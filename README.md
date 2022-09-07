@@ -1,9 +1,8 @@
-# BasesComputacionais
+# Bases Computacionais
 
+## Um curso básico sobre análise de dados (Basic course on data analysis, in Portuguese). 
 
-Renato Naville Watanabe
-
-Curso básico sobre análise de dados (Basic course on data analysis, in Portuguese). 
+**Renato Naville Watanabe**
 
 ### Semana 1: [Apresentação](https://nbviewer.jupyter.org/format/slides/github/rnwatanabe/BasesComputacionais/blob/master/aula1/Apresenta%C3%A7%C3%A3o.ipynb#/)
 
