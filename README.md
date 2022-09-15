@@ -1,7 +1,7 @@
 # Bases Computacionais
 
 ## Um curso básico sobre análise de dados
-(basic course on data analysis, in Portuguese)  
+**(Basic course on data analysis, in Portuguese)**  
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BMClab/BasesComputacionais/) 
 
