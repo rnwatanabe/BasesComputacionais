@@ -1,9 +1,7 @@
-# Bases Computacionais
+# Bases Computacionais   [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BMClab/BasesComputacionais/) 
 
 ## Um curso básico sobre análise de dados
 **(Basic course on data analysis, in Portuguese)**  
-
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BMClab/BasesComputacionais/) 
 
 **Renato Naville Watanabe**
 
