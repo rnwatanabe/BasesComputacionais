@@ -1,6 +1,6 @@
 # Bases Computacionais
 
-## Um curso básico sobre análise de dados (Basic course on data analysis, in Portuguese)
+### Um curso básico sobre análise de dados (Basic course on data analysis, in Portuguese)
 
 **Renato Naville Watanabe**
 
