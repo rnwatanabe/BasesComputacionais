@@ -8,7 +8,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BMClab/BasesComputacionais/master?labpath=README.ipynb)   JupyterLab  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BMClab/BasesComputacionais/master?filepath=README.ipynb)   Classic Notebook  
 
-[Notas](https://docs.google.com/spreadsheets/d/1Gt-H1JoBxFMcCzH_ZmbRj4K6Gz5QHiQ8svOlwAG36RA/edit?usp=sharing)
+[Notas](https://docs.google.com/spreadsheets/d/e/2PACX-1vQHgizDGo07fdnfTRqcuslNb-ENbta9bJSXk85TWMBxP7OMTZVbBDCvoscJF32mosqIkI_lqZBAhwzV/pubhtml)
 
 ### Semana 1: [Apresentação](https://nbviewer.jupyter.org/format/slides/github/BMClab/BasesComputacionais/blob/master/aula1/Apresenta%C3%A7%C3%A3o.ipynb#/)
 
