@@ -8,8 +8,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BMClab/BasesComputacionais/master?labpath=README.ipynb)   JupyterLab  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BMClab/BasesComputacionais/master?filepath=README.ipynb)   Classic Notebook  
 
-[Notas](https://docs.google.com/spreadsheets/d/e/2PACX-1vQHgizDGo07fdnfTRqcuslNb-ENbta9bJSXk85TWMBxP7OMTZVbBDCvoscJF32mosqIkI_lqZBAhwzV/pubhtml)
-
 ### Semana 1: [Apresentação](https://nbviewer.jupyter.org/format/slides/github/BMClab/BasesComputacionais/blob/master/aula1/Apresenta%C3%A7%C3%A3o.ipynb#/)
 
 ### Semana 2: [Variáveis e Algoritmos](https://nbviewer.jupyter.org/format/slides/github/BMClab/BasesComputacionais/blob/master/aula2/Vari%C3%A1veis%20e%20algoritmos.ipynb#/)
@@ -32,3 +30,7 @@
 
 
 [**Sorteio do projeto final**](https://nbviewer.jupyter.org/format/slides/github/BMClab/BasesComputacionais/blob/master/Sorteio.ipynb)
+
+[Notas das turmas](https://docs.google.com/spreadsheets/d/e/2PACX-1vQHgizDGo07fdnfTRqcuslNb-ENbta9bJSXk85TWMBxP7OMTZVbBDCvoscJF32mosqIkI_lqZBAhwzV/pubhtml)
+
+[Grupos e disciplinas para os projetos](https://docs.google.com/spreadsheets/d/e/2PACX-1vTXTSSRoL5A0dQI13TqtkAEYAuaXNbdjXsuXDXKlGlJNemXqwxuW5EHLYnzTb3zcSrWkbbzauvJFHPf/pubhtml)
