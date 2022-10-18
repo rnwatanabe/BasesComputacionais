@@ -1,0 +1,11 @@
+numpy
+scipy
+matplotlib
+seaborn
+pandas
+statsmodels
+sympy
+ipywidgets
+jupyter_contrib_nbextensions
+rise
+watermark
