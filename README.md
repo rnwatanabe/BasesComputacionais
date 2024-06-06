@@ -8,6 +8,8 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BMClab/BasesComputacionais/master?labpath=README.ipynb)   JupyterLab  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BMClab/BasesComputacionais/master?filepath=README.ipynb)   Classic Notebook  
 
+## Aulas
+
 ### Semana 1: [Apresentação](https://nbviewer.jupyter.org/format/slides/github/BMClab/BasesComputacionais/blob/master/aula1/Apresenta%C3%A7%C3%A3o.ipynb#/)
 
 ### Semana 2: [Variáveis e Algoritmos](https://nbviewer.jupyter.org/format/slides/github/BMClab/BasesComputacionais/blob/master/aula2/Vari%C3%A1veis%20e%20algoritmos.ipynb#/)
@@ -29,8 +31,13 @@
 ### Semana 10: [Exemplos de modelagem](https://nbviewer.jupyter.org/format/slides/github/BMClab/BasesComputacionais/blob/master/aula10/Modelagem.ipynb#)
 
 
-> [**Sorteio do projeto final**](https://nbviewer.jupyter.org/format/slides/github/BMClab/BasesComputacionais/blob/master/Sorteio.ipynb)  
->  
-> [**Grupo e disciplina do projeto final**](https://docs.google.com/spreadsheets/d/e/2PACX-1vTXTSSRoL5A0dQI13TqtkAEYAuaXNbdjXsuXDXKlGlJNemXqwxuW5EHLYnzTb3zcSrWkbbzauvJFHPf/pubhtml)  
->  
-> [**Notas das turmas**](https://docs.google.com/spreadsheets/d/e/2PACX-1vQHgizDGo07fdnfTRqcuslNb-ENbta9bJSXk85TWMBxP7OMTZVbBDCvoscJF32mosqIkI_lqZBAhwzV/pubhtml)  
+## Avaliação
+
+A avaliação será feita com base em tarefas. Não haverá prova. A nota final M será a média de todas as tarefas. Ao final, a nota será convertida em conceito utilizando o seguinte critério:
+
+- M>=8,5 -> A
+- 7<=M<8,5 -> B
+- 6<=M<7 -> C
+- 5<=M<6 -> D
+- M<5 -> F
+
